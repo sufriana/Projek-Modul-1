@@ -28,7 +28,7 @@ Pengguna dapat menghapus data produk skincare yang sudah ada.
 5. Mengurutkan Data Skincare
 Pengguna dapat mengurutkan data produk skincare berdasarkan nama produk, kemasan, atau stok.
 6. Mencari Data Skincare
-Pengguna dapat mencari data produk skincare berdasarkan berbagai kriteria seperti nama produk, kemasan, stok, harga, dan nilai total stok.
+Pengguna dapat mencari data produk skincare berdasarkan berbagai kriteria seperti nama produk, kemasan, stok, dan harga.
 
 ## Cara Menggunakan
 

@@ -1,3 +1,6 @@
+# Nama :Sufriana
+# Program : JCDS-Jakarta
+
 from tabulate import tabulate
 
 data = [

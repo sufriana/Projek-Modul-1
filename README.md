@@ -10,7 +10,8 @@ Proyek ini adalah sebuah program Python sederhana untuk mengelola data stok prod
 ![flowchartcapston-Update_data drawio (1)](https://github.com/sufriana/Projek-Modul-1/assets/49579041/cc986d28-d783-4577-acb1-e149bff94682)
 ![flowchartcapston-Delete_data drawio](https://github.com/sufriana/Projek-Modul-1/assets/49579041/e4baae8b-bbc9-4f04-af5c-361d8abe2f94)
 ![flowchartcapston-Sorted_data drawio](https://github.com/sufriana/Projek-Modul-1/assets/49579041/46f0ece9-e533-4e28-b6b5-d2fa583dec2d)
-![flowchartcapston-Filter_data drawio](https://github.com/sufriana/Projek-Modul-1/assets/49579041/f62a2aff-2a34-4094-8b79-677d398005df)
+![flowchartcapston-Filter_data drawio (1)](https://github.com/sufriana/Projek-Modul-1/assets/49579041/eda1d851-32b9-4919-8d85-b994ace6e896)
+
 
 ## Fitur Utama
 
